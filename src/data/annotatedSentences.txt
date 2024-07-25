@@ -1,0 +1,13 @@
+<sentence data-id="bai-sentence-1">Quantitative Western blot analyses demonstrate that the 
+total level of <entity data-type="gene" data-uuid="bai-entity-sod1">SOD1</entity> 
+isoforms <relationship> is increased in</relationship> in both <entity data-type="disease" data-uuid="bai-entity-ad"> Alzheimer</entity> and <entity data-type="disease" data-uuid="bai-entity-pd"> 
+Parkinson.</entity>
+</sentence>
+
+<sentence data-id="bai-sentence-2">
+<entity data-type="gene" data-uuid="bai-entity-sod1">SOD1</entity> expression <relationship>is reduced</relationship> in aging and <entity  data-type="disease" data-uuid="bai-entity-ad"> Alzheimer's disease </entity> (AD) patients' brains.
+</sentence>
+
+<sentence data-id="bai-sentence-3">
+In conclusion, this case provides evidence that <entity data-type="gene" data-uuid="bai-entity-sod1">SOD1</entity> mutations <relationship>can be associated</relationship> with <entity data-type="disease" data-uuid="bai-entity-ftd">frontotemporal dementia</entity>.
+</sentence>

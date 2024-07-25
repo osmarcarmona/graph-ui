@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    { "id": "bai-entity-sod1", "label": "SOD1" },
+    { "id": "bai-entity-ad", "label": "Alzheimer" },
+    { "id": "bai-entity-pd", "label": "Parkinson" },
+    { "id": "bai-entity-ftd", "label": "frontotemporal dementia" }
+  ],
+  "relationships": [
+    {
+      "id": "rel-1",
+      "source": "bai-entity-sod1",
+      "target": "bai-entity-ad",
+      "label": "is increased in",
+      "sentenceId": "bai-sentence-1"
+    },
+    {
+      "id": "rel-2",
+      "source": "bai-entity-sod1",
+      "target": "bai-entity-ad",
+      "label": "is reduced in",
+      "sentenceId": "bai-sentence-2"
+    },
+    {
+      "id": "rel-3",
+      "source": "bai-entity-sod1",
+      "target": "bai-entity-pd",
+      "label": "is increased in",
+      "sentenceId": "bai-sentence-1"
+    },
+    {
+      "id": "rel-4",
+      "source": "bai-entity-sod1",
+      "target": "bai-entity-ftd",
+      "label": "can be associated with",
+      "sentenceId": "bai-sentence-3"
+    }
+  ]
+}
